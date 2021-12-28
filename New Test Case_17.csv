@@ -1,0 +1,3 @@
+Test Steps,Data,Expected Result
+"open website","https://www.wikipedia.org",""
+"Exec ""Dropdown_validation.js"" with ${test},${test1} returning ${output_drop}","",""
